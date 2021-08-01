@@ -1,0 +1,5 @@
+npm i @nestjs/graphql graphql apollo-server-express@2.x.x
+
+npm install typeorm pg --save
+
+npm i @apollo/gateway
